@@ -1,1 +1,1 @@
-# Employee-Management-System
+# Hospital-Management-System
